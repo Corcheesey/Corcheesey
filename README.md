@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Micah. I am a frontend web developer and occasional indie game developer. I'm interested in web development, game development, and anything related to Space exploration. I work on personal projects during my freetime to learn new technologies.
+I'm Micah. I'm a frontend web developer and occasional indie game developer. I'm interested in web development, game development, and anything related to Space exploration. I work on personal projects during my freetime to learn new technologies.
 
 ### Languages and Tools 
 
