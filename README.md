@@ -1,15 +1,9 @@
-# Micah Cortese
+# Hello! 👋
 
-**`Front End Web Developer`**
-
-Hello! My name is Micah. I've been fascinated with the internet and webpages since I was a little kid who would make websites to host games and play them with my friends. After spending time in college trying out different avenues in the computer science world, I've narrowed my focus on web development (and a little bit of game development on the side). Many of my projects on GitHub derive from either school or personal projects I work on during free time. 
-
-#
+I'm Micah. I am a frontend web developer and occasional indie game developer. I'm interested in web development, game development, and anything related to Space exploration. I work on personal projects during my freetime to learn new technologies.
 
 ### Languages and Tools 
 
-* Java, HTML, CSS, JavaScript, Git
+# ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,vscode,npm)
 
-#
-
-Some projects are not listed here on GitHub but are <a href="https://zerogravitygaming.itch.io/">here</a> instead.
+Some projects are not listed here on GitHub but are <a href="https://zerogravitygaming.itch.io/">here</a>(Itch.io) instead.
