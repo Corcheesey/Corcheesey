@@ -4,6 +4,6 @@ I'm Micah. I'm a frontend web developer and occasional indie game developer. I'm
 
 ### Languages and Tools 
 
-# ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,vscode,npm)
+# ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,vscode,npm,github)
 
 Some projects are not listed here on GitHub but are <a href="https://zerogravitygaming.itch.io/">here</a>(Itch.io) instead.
